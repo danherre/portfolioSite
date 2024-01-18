@@ -1,3 +1,2 @@
 # Personal Website
-This is my personal website which I developed and deployed with a Bootstrap template from Colorlib.
-Access it at www.danielherrerias.com
+This site is now deprecated. To visit my 2024 updated website please visit
